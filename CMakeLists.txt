@@ -27,6 +27,8 @@ if(${QT_VERSION_MAJOR} GREATER_EQUAL 6)
         resources.qrc
 
     )
+
+# TG_BOT_KEY = 12423264:bot63hyyrh67hhbtrgtvvtTIrygh56gtr
 # Define target properties for Android with Qt 6 as:
 #    set_property(TARGET tmp1 APPEND PROPERTY QT_ANDROID_PACKAGE_SOURCE_DIR
 #                 ${CMAKE_CURRENT_SOURCE_DIR}/android)
