@@ -1,0 +1,11 @@
+<RCC>
+    <qresource prefix="/">
+	<file>images/blue_dragon.png</file>
+	<file>images/green_dragon.png</file>
+	<file>images/hero.png</file>
+	<file>images/ice_troll.png</file>
+	<file>images/mountain_troll.png</file>
+        <file>images/red_dragon.png</file>
+	<file>images/desert_troll.png</file>
+    </qresource>
+</RCC>
